@@ -32,3 +32,17 @@ https://insurancefraud.de.r.appspot.com/
 
 Currently app disabled,since GCP is chargeable.
 ![Screenshot (101)](https://user-images.githubusercontent.com/75041273/129017832-1db713d3-03f4-4089-a0b7-e14aec71f210.png)
+
+## Technology Stack
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+
+## Further Changes to be Done
+
+- [ ] Deploying the Web Application on Cloud.
+     - [ ] Heroku
+     - [ ] Azure
+     - [ ] AWS EC2 Instance
+
