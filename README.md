@@ -23,7 +23,7 @@ python main.py
 ## Deployment on GCP
 Login or sign up in order to create virtual app and many more things. Free tier account on Google console provides $300 credit for one year. For application deployment download the Google SDK installer.
 
-## Frontend using HTML,CSS and Backend using Flask
+## Frontend using HTML and Backend using Flask
 
 https://insurancefraud.de.r.appspot.com/
 
