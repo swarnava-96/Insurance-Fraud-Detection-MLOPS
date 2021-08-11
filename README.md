@@ -1,6 +1,6 @@
 # Insurance-Fraud-Detection-MLOPS
 
-## Architecture
+## Project Architecture
 
 ![image](https://user-images.githubusercontent.com/75041273/129022437-05b6056a-8943-47d3-a4a3-da17acfbb9e3.png)
 
