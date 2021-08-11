@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 ##### 4. Then, in cmd or Anaconda prompt write the following code:
 ```bash
-python app.py
+python main.py
 ```
 ##### Make sure to change the directory to the root folder.  
 
