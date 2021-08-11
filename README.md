@@ -2,7 +2,7 @@
 
 ## About
 To build a classification methodology to determine whether a customer is placing a fraudulent insurance claim.
-For more details about the project visit 
+For more details about the project visit https://github.com/swarnava-96/Insurance-Fraud-Detection-MLOPS/blob/main/documentation/Project%20Documentation.pdf
 
 ## Project Architecture
 
