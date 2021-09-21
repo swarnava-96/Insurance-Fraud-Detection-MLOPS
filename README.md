@@ -1,10 +1,14 @@
 # Insurance-Fraud-Detection-MLOPS
 
-## About
-To build a classification methodology to determine whether a customer is placing a fraudulent vehicle insurance claim. The data was sent from the client side in multiple sets of files in batches at a given location. The data has been extracted from the census bureau. The Dataset has 38 features(including the target feature). Schema file was also sent by the client containing the relevent informations about training files. Data Validation was performed as an initial step followed by data insertion into Database(SQLite). Here data is divided into good and bad data based on the schema file and then sent to respective folders. Then the entire lifecycle of a Data Science project was followed like, exporting data from database,data preprocessing(Imbalanced dataset was handled using Imblearn's Random Over sampler),clustering using Kmeans,model selection(multiple models were tested and the top 2 models were selected based on accuracy score and AUC score), model building(XgBoost for the first cluster and SVC for the second), hyperparameter optimization(using GridSearchCV) and finally model deployment(into GCP). API testing was done using Postman. Logs were maintained at each and every step of action. Similar set of actions were performed for the predicting data. Codes were written following OOPS concept.
+## Goal: To build a classification methodology to determine whether a customer is placing a fraudulent vehicle insurance claim.
 
-For more details about the project visit:
-https://github.com/swarnava-96/Insurance-Fraud-Detection-MLOPS/blob/main/documentation/Project%20Documentation.pdf
+## About the Data set:
+The data was sent from the client side in multiple sets of files in batches at a given location. The data has been extracted from the census bureau. The Dataset has 38 features(including the target feature).
+
+## Project Description:
+Schema file was also sent by the client containing the relevent informations about training files. Data Validation was performed as an initial step followed by data insertion into Database(SQLite). Here data is divided into good and bad data based on the schema file and then sent to respective folders. Then the entire lifecycle of a Data Science project was followed like, exporting data from database,data preprocessing(Imbalanced dataset was handled using Imblearn's Random Over sampler),clustering using Kmeans,model selection(multiple models were tested and the top 2 models were selected based on accuracy score and AUC score), model building(XgBoost for the first cluster and SVC for the second), hyperparameter optimization(using GridSearchCV) and finally model deployment(into GCP). API testing was done using Postman. Logs were maintained at each and every step of action. Similar set of actions were performed for the predicting data. Codes were written following OOPS concept.
+
+For more details about the project click [here](https://github.com/swarnava-96/Insurance-Fraud-Detection-MLOPS/blob/main/documentation/Project%20Documentation.pdf)
 
 ## Project Architecture
 
